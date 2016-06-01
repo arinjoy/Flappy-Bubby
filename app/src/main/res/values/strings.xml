@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="camera_button">Camera</string>
+
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="action_new_selfie">New Selfie</string>
+    <string name="action_delete_all_selfies">Delete all selfies</string>
+
+    <string name="action_remind_every_1_min">Remind every 1 min</string>
+    <string name="action_remind_every_2_min">Remind every 2 min</string>
+    <string name="action_remind_every_1_day">Remind once a day</string>
+
+    <string name="dialog_delete_all_selfies">Are you sure you want to delete all the selfies?</string>
+    <string name="dialog_delete_selfie">Are you sure you want to delete this selfie?</string>
+    <string name="dialog_yes">Yes</string>
+    <string name="dialog_no">No</string>
+
+    <string name="notification_ticker">Daily Selfie notification</string>
+    <string name="notification_message">Time for another selfie..</string>
+</resources>
